@@ -1,12 +1,13 @@
 # OIBSIP_Calculator-App
 Calculator Overview This project is a simple and functional calculator built using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations and provides a user-friendly interface.  Features
 
-Features
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 Responsive Design: Adapts to various screen sizes, ensuring usability on both desktops and mobile devices.
 User-Friendly Interface: Clean and intuitive design for ease of use.
 Keyboard Support: Allows users to input numbers and operations using the keyboard.
 Error Handling: Provides feedback for invalid operations and errors.
+
+
 Technologies Used
 HTML5: For structuring the calculator's interface.
 CSS3: For styling the calculator and making it responsive.
@@ -17,7 +18,7 @@ To view and use the calculator locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/krupadudhat/OIBSIP_Calculator-App.git
 Navigate to the project directory:
 bash
 Copy code
